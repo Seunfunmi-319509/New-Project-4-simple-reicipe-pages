@@ -368,7 +368,7 @@ Page
 }
 .hero{
   height: 40vh;
-  background: url(/html-css-simply-recipes-main/starter/assets/main.jpeg) center/cover no-repeat;
+  background: url(/assets/main.jpeg) center/cover no-repeat;
   margin-bottom: 2rem;
   border-radius: var(--borderRadius);
   position: relative;
@@ -635,7 +635,7 @@ Sngle Recipe Page
   background: var(--primary-500);
   border-radius: var(--borderRadius);
   color: var(white);
-  padding: 0.5rem 0.5rem;
+  padding: 0.05rem 0.5rem;
   margin: 0 0.25rem;
   text-transform: capitalize;
 }
@@ -675,7 +675,7 @@ Simple Recipe Page
   color: var(--primary-500);
 }
 .single-instruction > p {
-  color: var(--grey-300);
+  color: var(--grey-700);
 }
 .single-instruction header div {
   height: 2px;
